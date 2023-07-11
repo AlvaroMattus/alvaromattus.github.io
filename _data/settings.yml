@@ -76,12 +76,12 @@ footer_description: Explicando con manzanas es un sitio con tutoriales, consejos
 # Social Links
 social:
 - {icon: "twitter", link: "https://twitter.com"}
-- {icon: "instagram", link: "https://twitter.com"}
+- {icon: "instagram", link: "https://www.instagram.com/explicandoconmanzanas/"}
 # - {icon: "facebook", link: "https://facebook.com"}
 # - {icon: "codepen", link: "https://codepen.io"}
 # - {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "github", link: "https://github.com/AlvaroMattus/Snippets/"}
+- {icon: "youtube", link: "https://www.youtube.com/channel/UCY5RIBM-50Qvs5BaAU8hCPw"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
