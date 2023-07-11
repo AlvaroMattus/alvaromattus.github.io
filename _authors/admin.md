@@ -1,11 +1,11 @@
 ---
 username: admin
-name: Bruno Mason
-image: '/images/100.jpg'
-location:
-website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+name: Álvaro Mattus Donaire
+image: '/images/alvaro.jpg'
+location: Santiago
+website: 
+facebook: 
+twitter: 
+instagram: https://www.instagram.com/explicandoconmanzanas/
 ---
-I'm a seasoned veteran of editorial and content management with the skills to make a difference.
+Soy un usuario de Mac desde 2005, profesor, matemático y lingüista. Enseñar me encanta y si puedo compartir una de mis pasiones acá, tanto mejor.

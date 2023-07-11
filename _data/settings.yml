@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Danto
-description: Danto is a news and magazine Jekyll theme
+title: Explicando con manzanas
+description: Explicando con manzanas es un sitio con tutoriales, consejos y comentarios para usuarios de Apple
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -41,8 +41,8 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: One Stop Daily News, Article, Inspiration, and Tips.
-  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+  hero_title: El lugar para aprender a usar tu Mac.
+  hero_description: Con tutoriales, consejos, reviews y explicaciones claras.
 
 
 #-------------------------------
@@ -65,20 +65,21 @@ tags_section:
 # Authors Section Settings
 authors_section:
   enable: true
-  section_title: Meet our authors
+  section_title: Conoce a nuestros autores
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+footer_description: Explicando con manzanas es un sitio con tutoriales, consejos y comentarios para usuarios de Apple
 
 
 # Social Links
 social:
 - {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
+- {icon: "instagram", link: "https://twitter.com"}
+# - {icon: "facebook", link: "https://facebook.com"}
+# - {icon: "codepen", link: "https://codepen.io"}
+# - {icon: "pinterest", link: "https://pinterest.com"}
 - {icon: "github", link: "https://github.com"}
 - {icon: "youtube", link: "https://youtube.com"}
 
@@ -89,7 +90,7 @@ social:
 #-------------------------------
 # Newsletter Settings
 mailchimp_settings:
-  enable: true
+  enable: false
   mailchimp_title: Get interesting news
   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -114,4 +115,4 @@ disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. Fo
 
 #-------------------------------
 # Google Analytics
-google_analytics: # Add your GA Tracking Id
+google_analytics: G-8S4H1XS59K
