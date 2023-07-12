@@ -5,9 +5,22 @@
         <description>Explicando con manzanas es un sitio con tutoriales, consejos y comentarios para usuarios de Apple</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Jul 2023 00:13:33 -0400</pubDate>
-        <lastBuildDate>Tue, 11 Jul 2023 00:13:33 -0400</lastBuildDate>
+        <pubDate>Tue, 11 Jul 2023 22:19:47 -0400</pubDate>
+        <lastBuildDate>Tue, 11 Jul 2023 22:19:47 -0400</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
+        
+            <item>
+                <title>9 usos de la tecla alt</title>
+                <description>
+</description>
+                <pubDate>Sat, 08 Jul 2023 09:00:00 -0400</pubDate>
+                <link>http://localhost:4000/latest/9-usos-de-la-tecla-alt</link>
+                <guid isPermaLink="true">http://localhost:4000/latest/9-usos-de-la-tecla-alt</guid>
+                
+                <category>Mac</category>
+                
+                
+            </item>
         
     </channel>
 </rss>
